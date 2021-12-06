@@ -1,0 +1,3 @@
+This is the code used to perform the data analysis used in the paper "Energy Decompositions for Moist Boussinesq and Anelastic Equations with Phase Changes."
+
+The data is was generated from the UCLA-LES code, and uses environmental conditions taken from the RICO field campaign (rain in shallow cumulus over the ocean).
